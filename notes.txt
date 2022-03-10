@@ -1,0 +1,4 @@
+- Characters start at level 1 with 0 experience. 
+- 100 experience = +1 level 
+- Defeating monsters gives exp 
+- Tier list of monsters that give the 
